@@ -9,3 +9,6 @@ this is a demo repo for sharing ideas around communication
 
 ### Gist
 This is my gist repo https://gist.github.com/sophiacyh/2c0c5fdf21d21c9244982be61cab2eed
+
+### Image
+https://github.com/sophiacyh/technical-disucssion/issues/1#issue-1921582885
